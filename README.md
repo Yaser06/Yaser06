@@ -20,9 +20,21 @@
 <p align="center">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Yaser06?color=red&label=stars&logo=github&style=for-the-badge">
 </p>
+    
+ ---
+#### 🛠 Technology Stack
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,github,git,gitlab,js,html,css,mysql,postgresql,mongodb,idea,eclipse,vscode)](https://skillicons.dev)
+ 
+ ---
+ 
 <p align="center">
-    <img height=177 src="https://github-readme-stats.vercel.app/api?username=Yaser06&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaser06&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=8">
+    <img height=177 src="https://github-readme-stats.vercel.app/api?username=Yaser06&show_icons=true&layout=compact&text_color=bdc3c7&title_color=6698FF&icon_color=6698FF"> <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaser06&text_color=6698FF&title_color=6698FF&layout=compact&langs_count=8">
+</p>
+
+<p align="center"> 
+  Visitor Count<br><br>
+  <img src="https://profile-counter.glitch.me/Yaser06/count.svg" />
 </p>
 
 * * *

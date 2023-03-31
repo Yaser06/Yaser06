@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/yasermucahitaktas"><img src="https://img.shields.io/badge/LinkedIn-Yaser%20Aktas-006192?style=for-the-badge&logo=linkedin"></a>
 <a href="https://yasermucahitaktas.medium.com/"><img src="https://img.shields.io/badge/MEDIUM-D14836?style=for-the-badge&logo=medium&logoColor=white&color=gray"></a>
-<a href="https://www.instagram.com/yaseraktas06"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=red"></a>
+<a href="https://www.instagram.com/yasermucahitaktas"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=red"></a>
 <a href=mailto:yaser.mucahit.aktas@gmail.com><img src="https://img.shields.io/badge/Gmail-Yaser%20Aktas-D44638?style=for-the-badge&logo=gmail"></a> 
 </p>
 
